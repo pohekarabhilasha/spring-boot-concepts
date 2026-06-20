@@ -1,4 +1,4 @@
-# Dependency Injection
+# Dependency Injection (DI)
 
 Dependency Injection is the technique that implements IoC. Instead of a class creating its own dependencies with `new`, Spring supplies them from outside.
 
